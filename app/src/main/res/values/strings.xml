@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">EVImage</string>
+    <string name="no_images">No images found.</string>
+    <string name="category_data">EMP DATA</string>
+    <string name="category_upload">S3 IMG UPLOAD</string>
+    <string name="category_download">S3 IMG DOWNLOAD</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="user_authkey">AuthKey</string>
+    <string name="action_exit">Exit</string>
 </resources>
