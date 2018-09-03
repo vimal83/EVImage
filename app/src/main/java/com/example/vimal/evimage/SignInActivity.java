@@ -32,7 +32,7 @@ public class SignInActivity extends AppCompatActivity {
 
     EditText emailBox, passwordBox;
     Button loginButton;
-    TextView registerLink;
+//    TextView registerLink;
     String Email,Password;
 
     String URLPath = "http://amazons3api-dev.us-west-2.elasticbeanstalk.com/api/user/Login";
@@ -47,7 +47,7 @@ public class SignInActivity extends AppCompatActivity {
         passwordBox = (EditText)findViewById(R.id.passwordBox);
         Password=passwordBox.getText().toString();
         loginButton = (Button)findViewById(R.id.loginButton);
-        registerLink = (TextView)findViewById(R.id.registerLink);
+        //registerLink = (TextView)findViewById(R.id.registerLink);
 
         loginButton.setOnClickListener(new View.OnClickListener() {
             @Override
