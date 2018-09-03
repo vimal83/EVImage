@@ -15,4 +15,8 @@
 
     <!-- Background color for the colors category -->
     <color name="category_upload">#FFFFFF</color>
+
+    <color name="colorRed">#ff2026</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorAmber">#FFC400</color>
 </resources>
